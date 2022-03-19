@@ -4,6 +4,10 @@
 .imagetwo{
     display:inline-block;
 }
-table{
+table,
+td{
     border:1px solid black;
+}
+th{
+    background-color:rgb(241, 178, 209);
 }

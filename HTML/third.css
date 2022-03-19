@@ -1,0 +1,20 @@
+#customers{
+    font-family:'Times New Roman', Times, serif;
+    border-collapse:5px solid black;
+    width:60%;
+    height:400px;
+}
+#customers td, #customers th{
+    border:1px solid #ddd;
+    padding:8px;
+}
+#customers th{
+    text-align:center;
+    background-color:aqua;
+}
+#customers tr:nth-child(odd){
+    background-color:pink;
+}
+#customers tr:hover{
+    background-color:rgb(226, 164, 226);
+}
