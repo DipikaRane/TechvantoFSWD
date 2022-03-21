@@ -1,0 +1,19 @@
+using GitBash
+// only first time for windows
+1. go inside the folder
+2. right click
+3. click Git Bash Here
+4. write git clone (copy repo link) and enter
+
+//next all the time for windows
+1. go inside the folder
+2. right click
+3. click Git Bash Here
+4. write git pull and enter
+
+
+ways to write css
+1. Inline styles
+2. Internal
+3. External
+
