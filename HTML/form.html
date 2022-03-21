@@ -4,16 +4,56 @@
         <link rel="stylesheet" href="form.css"/>
     </head>
     <body>
-        <h1>heading</h1>
+        <!--<h1>Heading</h1>--> <!--this is comment-->
+        <h1>Welcome</h1>
         <div id="fromtag">
+            <!-- we are using form tag-->
             <form action="">
                 <fieldset>
                     <legend>Login</legend>
-                    <label for="fname">First Name</label>
-                    <input type="text" id="fname" placeholder="First Name"/>
-                    <label for="lname">First Name</label>
+                    <label>Employee Number</label>
+                    <input type="number" id="empcode"placeholder="TechEmp342" readonly/>
+                    <label for="fname">First Name *</label>
+                    <input type="text" id="fname" placeholder="First Name" required/>
+                    <label for="lname">Last Name</label>
                     <input type="text" id="lname" placeholder="Last Name"/>
-                    <input type="submit" value="submit"/>
+                    <label>Mobile Number</label>
+                    <input type="number" id="mobnum" maxlength="5" size="10" required/>
+                    <input type="submit" value="submit" disabled/>
+                    <br/>
+                    <hr/>
+                    <select>
+                        <option value="1">Dominos</option>
+                        <option value="1">MacDonald</option>
+                        <option value="1">KFC</option>
+                        <option value="1">PizzaHut</option>
+                    </select>
+
+                    <hr/>
+
+                    <select>
+                        <optgroup label="TakeAway">
+                            <option value="1">Dominos</option>
+                            <option value="1">MacDonald</option>
+                            <option value="1">KFC</option>
+                            <option value="1">PizzaHut</option>
+                        </optgroup>
+                        <optgroup label="DineIn">
+                            <option value="1">Dominos</option>
+                            <option value="1">MacDonald</option>
+                            <option value="1">KFC</option>
+                            <option value="1">PizzaHut</option>
+                        </optgroup>
+                    </select>
+
+                    <label>Chose you city</label>
+                    <input list="city"/>
+                        <datalist id="city">
+                            <option value="Delhi">
+                            <option value="Chennai">
+                            <option value="Mumbai">
+                        </datalist>
+                    
                 </fieldset>  
                 <button type="radio">Login</button>      
             </form>
