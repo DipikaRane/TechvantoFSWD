@@ -1,0 +1,48 @@
+#main{
+    width:70%;
+    height:700px;
+    border:1px solid darkgreen;
+    margin-left:20%;
+    margin-top:5%;
+    background-color:rgb(213, 229, 233);
+    border-radius:8px;
+}
+.info{
+    height:200px;
+}
+.info>input{
+    width:250px;
+    height:20px;
+    margin-left:3%;
+    margin-right:3%;
+    margin-top:2%;
+    position: relative;
+}
+label{
+    font-size:20px;
+}
+.addr{
+    height:50px;
+}
+.addr>input{
+    width:250px;
+    margin-left:0.5%;
+    margin-right:1%;
+}
+select{
+    width:250px;height:30px;
+    font-size:20px;
+}
+.correspond-addr{
+    height:100px;
+}
+
+.questions>input{
+   font-size:20px;
+}
+.button{
+    height:50px;
+    width:100px;
+    font-size:15px;
+    background-color:rgb(89, 146, 89)
+}

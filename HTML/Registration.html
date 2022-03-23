@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Registration</title>
+        <link rel="stylesheet" href="register.css"/>
+    </head>
+    <body>
+        <div id="main">
+            <h2 style="text-align:center;">Registration Form</h2>
+            <hr/>
+            <form>
+                <div class="info">
+                    <h3>Personal Information</h3>
+                    <label for="fname">First Name*</label>
+                    <input id="fname" type="text" required/>
+                    <label for="lname">Last name</label>
+                    <input id="lname" type="text" required/>
+                </div>
+                <div class="addr">
+                    <label for="address">Address Line 1</label>
+                    <input id="address" type="text" required/>
+                    <label for="address">Address Line 2</label>
+                    <input id="address" type="text"/>
+                </div>
+                <div class="city">
+                    <label for="city">City</label>
+                    <input id="city" type="text" required/>
+                    <label>State</label>
+                    <select>
+                        <option value="UP">UP</option>
+                        <option value="Punjab">Punjab</option>
+                        <option value="Maharashtra">Maharastra</option>
+                        <option value="Keral">Keral</option>
+                        <option value="Rajsthan">Rajsthan</option>
+                    </select>
+                    <label>Zip Code</label>
+                    <input type="number"/>
+                    <br/>
+                    <label for="email">Email</label>
+                    <input id="email" type="email" required/>
+                </div>
+                <hr>
+                <div class="correspond-addr">
+                    <h3>Corresponding Address</h3>
+                    <label for="address">Address Line 1</label>
+                    <input id="address" type="text" required/>
+                    <label for="address">Address Line 2</label>
+                    <input id="address" type="text"/>
+                </div>
+                <hr/>
+                <div class="questions">
+                    <h3>Would you like to receive our monthly email?</h3>
+                    <input id="button" type="radio">Yes</input>
+                    <input id="button" type="radio">No </input>
+                </div>
+                <hr/>
+                <center><button type="submit" class="button">Submit</button></center>
+            </form>
+        </div>
+    </body>
+</html>
