@@ -16,3 +16,15 @@ ways to write css
 2. Internal
 3. External
 
+CSS styling
+background
+color
+flex
+grid
+inline-block
+z-index -1 to place behind, 100 to place in front
+
+HTML and CSS project
+1. portfolio page
+2. Registration form
+

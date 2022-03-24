@@ -6,24 +6,35 @@ body{
     display:flex;
     flex-direction: row-reverse;
     background-color:lightgreen;
-    margin-top:10%;
+    margin-top:25%;
 }
 .flex-container>div{
-    width:200px;
-    height:100px;
+    width:230px;
+    height:120px;
     background-color:darkgreen;
     margin:10px;
-    padding:20px;
-    font-size: 30px;
+    padding:5px;
+}
+.flex-container div img{
+    width:230px;
+    height:120px;
 }
 #main{
-   background-image: url("image/drinks.png");
+    width:100%;
+    height:600px;
+   
+   background-image: url('image/drinks.png');
    background-repeat:no-repeat;
    background-size: cover;
-    width:100%;
-    height:400px;
-    padding:none;
-    color:white;
+   background-size: 100% 400px;
+   
+}
+.fbimage{
+    float: right;
+}
+.fbimage img{
+    height:100px;
+    width:100px;
 }
 /*background-position:right top/left top/left bottom*/
 #QuickSearch{
@@ -34,7 +45,7 @@ body{
 .heading{
     font-size:25px;
     margin-left:4%;
-    color:#700003;
+   /* color:#700003;*/
 }
 .mainblock{
     height:100%;
@@ -61,4 +72,27 @@ body{
 .tilecomponent1>img{
     height:250px;
     width:100%;
+}
+.grid-container{
+    display:grid;
+    grid-template-columns: auto auto auto;
+    gap:10px;
+    height:100%;
+    width: 100%;
+    background-color:#700003;
+    background-size:cover;
+    background-size: 100% 300px;
+    margin-top:2px;
+}
+.grid-item{
+    width:300px;
+    height:200px;
+    background-color:rgb(211, 160, 160);
+    margin:10%;
+    font-size:50px;
+    text-align:center;
+}
+.heading + p{
+color:#7616ad;
+font-style: italic;
 }
