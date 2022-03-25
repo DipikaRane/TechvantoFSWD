@@ -1,33 +1,41 @@
 body{
-    margin:none;
+    margin:auto;
     background-color:rgb(67, 192, 192);
 }
 .flex-container{
     display:flex;
-    flex-direction: row-reverse;
+    flex-direction: row;
     background-color:lightgreen;
-    margin-top:25%;
+    margin-top:20%;
+    height:300px;
 }
 .flex-container>div{
     width:230px;
-    height:120px;
+    height:150px;
     background-color:darkgreen;
     margin:10px;
+    margin-top:3%;
     padding:5px;
+    box-shadow: 10px 15px 20px green;
 }
 .flex-container div img{
     width:230px;
-    height:120px;
+    height:150px;
 }
+.flex-container div:hover{
+transform:scale(1.1);
+background-color: antiquewhite;
+}
+
+
 #main{
     width:100%;
-    height:600px;
-   
-   background-image: url('image/drinks.png');
-   background-repeat:no-repeat;
-   background-size: cover;
-   background-size: 100% 400px;
-   
+    height:400px;
+    background-image: url('image/drinks.png');
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-size: 100% 400px;
+   color:white;
 }
 .fbimage{
     float: right;
@@ -56,8 +64,9 @@ body{
     width:250px;
     height:250px;
     margin-left:5%;
-    border:1px solid red;
+    
     display:inline-block;
+    box-shadow: 10px 15px 20px green;
 }
 .tilecomponent1{
     height:250px;
@@ -84,6 +93,9 @@ body{
     background-size: 100% 300px;
     margin-top:2px;
 }
+.grid-container:hover{
+    background-color:aqua;
+}
 .grid-item{
     width:300px;
     height:200px;
@@ -95,4 +107,32 @@ body{
 .heading + p{
 color:#7616ad;
 font-style: italic;
+}
+
+#logo{
+    width:200px;
+    height:200px;
+    border-radius:50%;
+    background-color:#700003;
+    margin-left:8%;
+    animation:movelogo 5s infinite;
+}
+@keyframes movelogo{
+    0%{margin-left:20%}
+    20%{margin-top:10%}
+    40%{margin-left:30%}
+    60%{margin-top:10%}
+    100%{margin-left:20%}
+}
+#logo>span{
+    position:absolute;
+    margin-top:6%;
+    margin-left:2%;
+    font-size:35px;
+}
+
+#coupon{
+    width:200px;
+    height:200px;
+    background-color:red;
 }

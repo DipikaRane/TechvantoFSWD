@@ -3,6 +3,7 @@
     <head>
         <title>Homepage</title>
         <link rel="stylesheet" href="effect.css"/>
+        <script src="firstjs.js"></script>
     </head>
     <body>
         <div id="main">
@@ -10,15 +11,20 @@
             <div class="fbimage">
                 <a href="https://www.facebook.com/login/"><img src="image/facebook.png"/></a>
             </div>
-            
+            <div id="logo">
+                <span>Techvanto</span>
+            </div>
         </div>
         <div id="QuickSearch">
             <div class="heading">
                 <h1>Quicksearch for Souveniors</h1>
-                <p>Search here for the best of our products</p>
-                <p>Search here for the best of our products</p>
-                <p>Search here for the best of our products</p>
             </div>
+            <div id="coupon">
+                <button onClick="hidediv()">close</button> 
+            </div>
+            <svg width="200" height="200">
+                <circle cx="90" cy="60" r="80" stroke="green" stroke-width="4" fill="yellow" />
+              </svg>
             <div class="mainblock">
                 <div class="tilecomponent">
                     <div class="tilecomponent1">  
@@ -61,5 +67,8 @@
             <div class="grid-item">Five</div>
             <div class="grid-item">Six</div>
         </div>
+        <script>
+            window.onload=showdiv();
+        </script>
     </body>
 </html>
