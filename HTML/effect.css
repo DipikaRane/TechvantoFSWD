@@ -84,7 +84,7 @@ background-color: antiquewhite;
 }
 .grid-container{
     display:grid;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: auto auto auto auto auto auto;
     gap:10px;
     height:100%;
     width: 100%;
@@ -96,13 +96,16 @@ background-color: antiquewhite;
 .grid-container:hover{
     background-color:aqua;
 }
-.grid-item{
+.grid-container div{
     width:300px;
     height:200px;
     background-color:rgb(211, 160, 160);
     margin:10%;
     font-size:50px;
     text-align:center;
+}
+.grid-item1{
+    grid-area:auto;
 }
 .heading + p{
 color:#7616ad;
