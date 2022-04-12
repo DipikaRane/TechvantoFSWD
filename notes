@@ -33,3 +33,14 @@ animation
 hover
 box-shadow
 
+##### BOOTSTRAP ########
+Grid Classes
+Bootsrtap 3
+xs -extra small --- for phone/mobile -screen < 768px wide
+sm - small ---- for tablets - screen => 768px wide
+md -medium ---- for small laptops screen = > 992px
+lg - large --- for laptops and desktop devices = > 1200px wide
+
+Bootstrap 4
+
+Bootsrtap 5
