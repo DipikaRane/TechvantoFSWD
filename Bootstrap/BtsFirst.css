@@ -1,6 +1,8 @@
+
 .container{
     margin-top:5px;
-}
+    /* background-color: aqua;*/
+} 
 /* .jumbotron{
     background-image: url('background.png');
     background-position: center;
@@ -47,4 +49,19 @@
 .glyphicon-glass{
    color:red;
    font-size:30px;
+}
+.glyphicon-trash{
+    color:white;
+}
+.border{
+    width:1000px;
+    height:20px;
+    margin:1%;
+    display:inline-block;
+}
+.bg-info{
+    width:1000px;
+    height:20px;
+    margin:1%;
+    display:inline-block;
 }
