@@ -1,0 +1,31 @@
+.container{
+    height:600px;
+    width:100%;
+}
+.btn-info{
+    width:100px;
+    height:50px;
+}
+.modal{
+    /* background-color: rgb(226, 188, 188); */
+    width:60%;
+    height:500px;
+    margin-top:20px;
+    margin-left:10px;
+    position:relative;
+}
+.about{
+    color:white;
+    font-size:15px;
+    cursor: pointer;
+}
+.li{
+    list-style-type:none;
+}
+.simage{
+    height:200px;
+    width:100%;
+}
+#mySlider {
+    height:200px;
+}
