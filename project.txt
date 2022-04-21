@@ -1,0 +1,11 @@
+Project : Photo Gallery in Bootstrap
+1. collection of images
+2. start a project making a seperate folder
+3. create html file and css file 
+4. title of the project
+5. icon in title
+6. create good background for webpages
+7. make use of carousal
+8. html, css and bootstrap must be
+9. some text related to idea of project over webpage 
+10. create data.json file 

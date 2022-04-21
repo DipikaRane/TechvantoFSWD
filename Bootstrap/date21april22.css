@@ -1,0 +1,10 @@
+.panel-danger{
+    border-color:black;
+    margin-top:10%;
+}
+.panel-heading{
+    background-color:gray
+}
+.panel-info{
+    margin-top:10%;
+}
