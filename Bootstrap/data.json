@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "image_name":"butterfly",
+        "category":"insect",
+        "country":"India"
+    },
+    {
+        "id":2,
+        "image_name":"ladybug",
+        "category":"insect",
+        "country":"India"
+    }
+]

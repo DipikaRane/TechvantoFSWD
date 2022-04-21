@@ -34,13 +34,26 @@ hover
 box-shadow
 
 ##### BOOTSTRAP ########
-Grid Classes
+Grid Basics
 Bootsrtap 3
 xs -extra small --- for phone/mobile -screen < 768px wide
-sm - small ---- for tablets - screen => 768px wide
+sm - small ---- for tablets - screen > 768px wide
 md -medium ---- for small laptops screen = > 992px
 lg - large --- for laptops and desktop devices = > 1200px wide
 
 Bootstrap 4
+col-xs < 576px
+col-sm > 576px
+col-md > 768px
+col-lg > 992px
+col-xl >1200px
 
 Bootsrtap 5
+col-xs < 576px
+col-sm > 576px
+col-md > 768px
+col-lg > 992px
+col-xl > 1200px
+col-xxl > 1400px
+
+create emplyee.json file 
