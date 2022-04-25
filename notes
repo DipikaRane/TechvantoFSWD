@@ -79,3 +79,7 @@ next step each time
 2. json-server --watch jsonFileName.json --port 8500
 
 file:///G:/Techvanto/FSWD/Bootstrap/date21april22.html?eid=A982ST&fname=Nitin&lname=Sharma&email=nitins.rane%40gmail.com&password=nit&search=&date=2022-04-20&gender=male#
+
+
+bootstrap 3 uses glyphicon, img-responsive
+bootstrap 4 favicon, img-fluid, carousel, colors, btn-size
