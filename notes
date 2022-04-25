@@ -57,3 +57,25 @@ col-xl > 1200px
 col-xxl > 1400px
 
 create emplyee.json file 
+
+###form method################################
+1. GET -- default method
+2. POST -- to send/save method
+
+
+to create dummy url
+
+#. Install nodejs (https://nodejs.org/en/)
+1. go to browser
+2. open link
+
+#for windows (one time only)
+1. open command prompt as administrator
+2. npm i -g json-server
+3. close cmd
+
+next step each time 
+1. open terminal in vs-code
+2. json-server --watch jsonFileName.json --port 8500
+
+file:///G:/Techvanto/FSWD/Bootstrap/date21april22.html?eid=A982ST&fname=Nitin&lname=Sharma&email=nitins.rane%40gmail.com&password=nit&search=&date=2022-04-20&gender=male#

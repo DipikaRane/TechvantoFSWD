@@ -1,0 +1,20 @@
+{
+  "employee": [
+    {
+      "eid": "A982ST",
+      "fname": "Nitin",
+      "lname": "Sharma",
+      "email": "nitin@gmail.com",
+      "password": "nitin",
+      "id": 1
+    },
+    {
+      "eid": "A982ST",
+      "fname": "Abhishek",
+      "lname": "Mehta",
+      "email": "abhi@gmail.com",
+      "password": "abhi",
+      "id": 2
+    }
+  ]
+}
