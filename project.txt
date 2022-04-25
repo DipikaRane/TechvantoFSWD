@@ -9,3 +9,5 @@ Project : Photo Gallery in Bootstrap
 8. html, css and bootstrap must be
 9. some text related to idea of project over webpage 
 10. create data.json file 
+
+try this.....make 2-3 page wesite, use of carousel, use navbar, use jumbotron and text on jumbotron, use card...
