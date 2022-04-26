@@ -65,3 +65,12 @@
     margin:1%;
     display:inline-block;
 }
+.blockone{
+    display: block;
+    width:200px;
+    height:200px;
+    background-color:yellowgreen;
+}
+.blockone:hover{
+    display:none;
+}

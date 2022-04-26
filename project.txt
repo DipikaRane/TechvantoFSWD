@@ -11,3 +11,4 @@ Project : Photo Gallery in Bootstrap
 10. create data.json file 
 
 try this.....make 2-3 page wesite, use of carousel, use navbar, use jumbotron and text on jumbotron, use card...
+try this ... crossfade carousel in bootstrap 5
