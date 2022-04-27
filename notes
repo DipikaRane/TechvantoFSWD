@@ -83,3 +83,17 @@ file:///G:/Techvanto/FSWD/Bootstrap/date21april22.html?eid=A982ST&fname=Nitin&ln
 
 bootstrap 3 uses glyphicon, img-responsive
 bootstrap 4 favicon, img-fluid, carousel, colors, btn-size
+
+
+##### JAVASCRIPT ############## 
+Es > Ecma script
+
+es5 >ecma script 5
+es6 > ecma script 6
+
+DataType
+
+three types of datatypes
+1. string = "Hiii", 'hey', `hello`, "122adbv"
+2. number = 7826 999999999 88.888 .9999 any numeric value
+3. boolean = true / false
