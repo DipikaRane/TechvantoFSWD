@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <title>calculator</title>
+        <script src="calculator.js"></script>
+        <link rel="stylesheet" href="calc.css"/>
+    </head>
+    <body>
+        <div id="coupon"></div>       
+        <!-- <button onClick="Showdiv()">Show Div</button> -->
+        <button onClick="Hidediv()">Hide Div</button>
+        
+        <hr/>
+        <div class="calc">
+            <center>
+            <input placeholder="first" id="first" name="first"/>
+            <input placeholder="second" id="second" name="second"/>
+            <br/>
+            <br/>
+            <button onClick="Add()">Add</button>
+            <button onClick="Sub()">Sub</button>
+            <br/>
+            <p class="output">Output</p>
+            <button onClick="clearAll()">Clear</button>
+            </center>
+        </div>
+        <script>
+            window.onload = Showdiv()
+        </script>
+    </body>
+</html>

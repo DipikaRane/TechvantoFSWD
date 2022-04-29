@@ -1,0 +1,11 @@
+#coupon{
+    height:300px;
+    width:300px;
+    background-color:olive;
+    display:none;
+}
+.calc{
+    height:400px;
+    width:500px;
+    background-color:rgb(103 58 183 / 39%);
+}
