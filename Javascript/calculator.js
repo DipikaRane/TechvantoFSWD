@@ -26,3 +26,6 @@ var Hidediv=()=>{
     var mydiv=document.getElementById('coupon');
     mydiv.style.display="none";
     }
+   
+    
+

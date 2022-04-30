@@ -36,3 +36,14 @@ var second=prompt("enter second value")
 parseFloat(first)+parseFloat(second)
 46.11
 
+function add(a,b){
+    return a+b
+} //es5
+
+var add=function(a,b){
+    return a+b
+} //elaborated es5
+
+var add=()=>{
+    return a+b
+} ///es6
