@@ -12,3 +12,7 @@ Project : Photo Gallery in Bootstrap
 
 try this.....make 2-3 page wesite, use of carousel, use navbar, use jumbotron and text on jumbotron, use card...
 try this ... crossfade carousel in bootstrap 5
+
+
+1.Password in Js for length=0 need clear the message 
+2. confirm password write logic.

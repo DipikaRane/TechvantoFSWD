@@ -8,3 +8,12 @@
 .panel-info{
     margin-top:10%;
 }
+#fout{
+    color:red;
+}
+#ppout{
+    background-color:red;
+    width:100%;
+    height:10px;
+    display:none;
+}
