@@ -97,3 +97,9 @@ three types of datatypes
 1. string = "Hiii", 'hey', `hello`, "122adbv"
 2. number = 7826 999999999 88.888 .9999 any numeric value
 3. boolean = true / false
+
+
+API calling -- Application Programming interfaces
+locationURL=""
+https://developerfunnel.herokuapp.com/location
+fetch & Promise

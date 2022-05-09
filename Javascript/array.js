@@ -101,3 +101,14 @@ a.concat(b)
 var city=["Delhi", "Mumbai", "Pune", "Amritsar", "Bathinda", "Patiala"]
 city.sort()
 (6) ['Amritsar', 'Bathinda', 'Delhi', 'Mumbai', 'Patiala', 'Pune']
+
+var a=[10]
+var b=10
+typeof(b)
+'number'
+typeof(a)
+'object'
+Array.isArray(b)
+false
+Array.isArray(a)
+true
