@@ -1,5 +1,5 @@
-var url="https://lovehandicrafts.herokuapp.com/hcproducts";
 
+var url="https://lovehandicrafts.herokuapp.com/hcproducts";
 
 function getProduct(){
     fetch(url,{method:"GET"})
@@ -16,6 +16,19 @@ function getProduct(){
 }
 
 
+// var url="https://lovehandicrafts.herokuapp.com/hcproducts";
+
+// async function getProduct(){
+//     var response = await fetch(url);
+//     var data = await response.json();
+//     data.map((item)=>{
+//         var element = document.createElement('p');
+//         var Text = document.createTextNode(item.product_name);
+//         element.appendChild(Text);
+//         element.value = item._id;
+//         document.getElementById('output').appendChild(element);
+//     })
+// }
 
 
 

@@ -33,17 +33,18 @@ city.trim().length
 Bathinda  .
 
 //JS is case sensitive
-var name="Aditi"
-var name1="Rahul"
+var name1="Aditi"
+var name2="Rahul"
 
-name==name1
+name1==name2
 false
-var name="Aditi"
-var name1="aditi"
 
-name==name1
+var name1="Aditi"
+var name2="aditi"
+name1==name2
 false
-name.toLowerCase()==name1.toLowerCase()
+
+name1.toLowerCase()==name2.toLowerCase()
 true
 
 var city="amSTerDam"
@@ -58,6 +59,7 @@ var city="amSTerDam"
 city.charAt(0).toUpperCase()
 'A'
 
+var city="amSTerDam"
 city.slice(1)
 'mSTerDam'
 
@@ -100,6 +102,11 @@ out[1]
 out[2]
 'github.com'
 
+var url="https://techvantoacademy.com/"
+var out=url.split('/')
+out
+(4)['https:', '', 'techvantoacademy.com', '']
+
 var url="https://github.com/DipikaRane/TechvantoFSWD"
 var out=url.split('/')
 out[out.length - 2]
@@ -110,8 +117,12 @@ a.split('')[0]
 var name="Javascript"
 name.split('')
 
-var name="Javascript"
-var out=name.split('')
+
+
+var name1="Javascript"
+var out=name1.split('')
+out
+(10) ['J', 'a', 'v', 'a', 's', 'c', 'r', 'i', 'p', 't']
 
 var n=7652735
 n.toString()

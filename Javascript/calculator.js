@@ -53,15 +53,17 @@ function backspace(){
 //     document.getElementById('second').value="";
 //     document.getElementsByClassName('output')[0].innerText=`${c}`
 // }
-// var Showdiv=()=>{
-// var mydiv=document.getElementById('coupon');
-// mydiv.style.display="block";
-// }//arrow function
 
-// var Hidediv=()=>{
-//     var mydiv=document.getElementById('coupon');
-//     mydiv.style.display="none";
-//     }
+
+var Showdiv=()=>{
+var mydiv=document.getElementById('coupon');
+mydiv.style.display="block";
+}//arrow function
+
+var Hidediv=()=>{
+    var mydiv=document.getElementById('coupon');
+    mydiv.style.display="none";
+    }
    
     
 

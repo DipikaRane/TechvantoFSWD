@@ -16,6 +16,12 @@ var movie = {
     Type:'HistoryDrama'
 }
 
+let movie = {
+    name:'Bhuj',
+    rating:4.3,
+    Type:'HistoryDrama'
+}
+
 movie.industry="Boolywood"
 'Boolywood'
 movie

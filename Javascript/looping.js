@@ -9,6 +9,12 @@ var city=["Delhi", "Mumbai", "Pune", "Amritsar", "Bathinda", "Patiala"]
 for(i=0;i<city.length;i++){
     console.log(city[i]);
 }
+Delhi
+Mumbai
+Pune
+Amritsar
+Bathinda
+Patiala
 
 var movie=[
     {
@@ -54,4 +60,20 @@ for(i=0;i<movie.length;i++){
 15 4.3
 15 4.1
 
+var city=["Delhi", "Mumbai", "Pune", "Amritsar", "Bathinda", "Patiala"]
+city.map((data)=>{console.log(data)})
 
+Delhi
+Mumbai
+Pune
+Amritsar
+Bathinda
+Patiala
+
+var a=[1,2,3,4,5]
+a.map((data)=>{return data*2})
+(5)[2, 4, 6, 8, 10]
+
+var a=[5,6,7,8,9,10,3,2]
+a.filter((data)=>{return data>5})
+(5)[6, 7, 8, 9, 10]

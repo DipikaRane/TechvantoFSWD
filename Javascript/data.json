@@ -1,0 +1,161 @@
+{
+    "course_name":"Soft Skills",
+    "subtitle":"Gain a competitive advantage over your peers and vest yourself with strong soft skills in an industry-oriented and competency-based learning paradigm.",
+    "description":"Soft skills are the personal character traits or qualities each of us has. They make us who we are, generally encompassing our attitude, habbits and how we ineract with other people. they refer ti abilities that make people better emplyees and open doors for many opportunities that are not directly related to the subject matter of their jobs. In other words, soft skills refer to a person's ability to relate to others, to get him/her and others organised, to communicate in written, spoken or other forms.",
+    "learningObjective":
+    ["By the end of the soft skills training program, the students should be able to develop effective communication skill.","Student should be able to develop effective presentation skill.","Conduct effective business correspondence and prepare business reports which produce results.","Growth in influence and impact, confidence building and expand in presentation skills"],
+    "preRequisites":
+    ["Acquaintance with the elementary knowledge of English language.","A laptop or desktop with basic installations and features."],
+    "avgRating":
+    {"$numberDouble":"5.0"},
+    "category":"College",
+    "noOfReviews":
+    {"$numberInt":"198"},
+    "price":
+    {"$numberInt":"7900"},
+    "discount":{"$numberInt":"2900"},
+    "duration":"6 Weeks",
+    "noOfLectures":
+    {"$numberInt":"60"},
+    "accessMode":"Live + Recordings",
+    "noOfEnrollment":
+    {"$numberInt":"264"},
+    "thumbnail":"https://tv-academy-assets.s3.eu-west-2.amazonaws.com/blog3.jpeg",
+    "gradient":"to right, #0f0c29, #302b63, #24243e",
+    "headerImageUrl":"https://tv-academy-assets.s3.eu-west-2.amazonaws.com/Cyber+Security+(1).jpg","posterImageUrl":"https://tv-academy-assets.s3.eu-west-2.amazonaws.com/blog3.jpeg",
+    "curriculum":
+    [{"heading":"Interpersonal Skill",
+        "detail":
+        [
+            "Basics and Science of Interpersonal Skill",
+            "Interpersonal Communication: The Core Ethics",
+            "Principles of Interpersonal Communication",
+            "Developing and Working with Relationships",
+            "Face to Face communications",
+            "Harnessing and recognizing behaviour",
+            "Avoiding the conflicts",
+            "Studying People and Behaviour Types",
+            "Building Trust and Respect Group Discussions"
+        ]},
+    {"heading":"Enhancing Productivity",
+        "detail":
+        [
+            "Increase productivity",
+            "Confidence building and handling rejections",
+            "Presentation skills",
+            "Expanding Personal Productivity"
+        ]
+    },
+    {"heading":"Expanding Influence",
+        "detail":
+        [
+            "Growing your influence and impact",
+            "Identifying and establishing Opportunities to expand influence",
+            "Keys to successful influence",
+            "Mastering Emotional Intelligence",
+            "Power of Integrity and trustworthiness",
+            "Strategic planning, personality development and focus",
+            "Fitting in and impacting people of multi-cultures"
+        ]
+    },
+    {
+        "heading":"Communication Skills",
+        "detail":
+        [
+            "Human make-up: Beliefs, Traditions, Values, Culture, Attitudes, and Behaviours",
+            "Building rapport",
+            "Obstructions to effective communication",
+            "Non-verbal communication",
+            "Communication Styles",
+            "Communicating assertively",
+            "Powerful presentations",
+            "Giving and accepting feedback",
+            "Open and closed forms of communication",
+            "Demonstrating appreciation towards others",
+            "Appropriating behaviour in different situations"
+        ]
+    },
+    {
+        "heading":"Team Dynamics & Development",
+        "detail":
+        [
+            "An organization, Departments, and Teamwork",
+            "Comprehending Team Dynamics",
+            "Communications within a team",
+            "Behaviours and People Types within a team",
+            "Capitalizing on styles, personalities, and strengths",
+            "Elements for Developing high performing teams",
+            "Team Development Stages",
+            "Effective Teambuilding Techniques"
+        ]
+    },
+    {
+        "heading":"Communication- Fundamentals & Technicalities",
+        "detail":
+        [
+         "Fundamentals of Speaking",
+         "Connecting with other persons speech and thoughts",
+         "Pitfalls when talking to others",
+         "Understanding and respecting beliefs, views, and ideas",
+         "Becoming a better communicator – Technicalities",
+         "Tips and Techniques to improve language and speaking",
+         "Tones, voice modulation and power-words"
+        ]
+    },
+    {
+        "heading":"Improving Listening Skills",
+        "detail":
+        [
+            "Fundamentals of Listening Skills",
+            "Verbal and non-verbal listening",
+            "Effective listening Techniques",
+            "Interpretive Listening",
+            "Investigative Listening",
+            "Reflective Listening",
+            "Evaluative Listening",
+            "Supportive Listening"
+        ]
+    },
+    {
+        "heading":"Learning Body Language",
+        "detail":
+        [
+            "Fundamentals of Body Language",
+            "The importance of Observation",
+            "Listening to unspoken communication",
+            "Mastering the reading of body language",
+            "Different body language in men and women",
+            "Power of body language in persuasion",
+            "Influencing in negotiations"
+        ]
+    },
+    {
+        "heading":"Assignment",
+        "detail":["Navigating paths to Win-Win situations"]
+    },
+    {
+        "heading":"Healthy Discussion & Conflict Resolution",
+        "detail":
+        [
+            "People Management",
+            "Developing Relationships",
+            "Communicating Change and Change management",
+            "Encouraging discussions and straightforwardness",
+            "Identifying and Minimizing Conflict",
+            "Recognizing indications of potential conflicts",
+            "Types and sources of conflicts",
+            "Conflict Resolutions",
+            "Value for constructive feedback and positive criticism"
+        ]
+    }   
+    ],
+    "createdAt":"1/1/22",
+    "training_benefits":["ISO-Certified Certificate of Excellence from IIT Bhubaneswar"," Live, on-demand classes","30 days of interactive learning"," Career support (internships+placement+aptitude and skill-based training+networking and resume building) after course completion","Hands-on projects to practice your skills"],
+    "is_top_course":"false",
+    "discount_limit_date":
+    {"$date":
+        {"$numberLong":"1653071400000"}
+    },
+    "registration_fee":{"$numberInt":"500"}
+},
+{"_id":{"$oid":"625e930ea2d159245c4ff532"},"course_name":"AutoCad","subtitle":"Learn drafting principles and fundamentals of AutoCAD, Expert Training, Cutting Edge Skillsets.","description":"If we had to define what AutoCAD is in a few words, we would say that it is a CAD-type software oriented to drawing and modeling in 2D and 3D. It allows the creation and modification of geometric models with an almost infinite capacity to develop all types of structures and objects.This ability to work in different fields has made AutoCAD transcend its traditional use in the world of architecture and engineering, to enter the world of graphic and interior design. ","learningObjective":["Utilize the power and precision of AutoCAD as a drafting","AutoCAD supports the operation of DWG and DXG files","AutoCAD is compatible with file formats that most 3D printers and slicing software use.","Use of AutoCad in Fashion Industry"],"preRequisites":["Acquaintance with the fundamental knowledge of Engineering Drawing.","A laptop or desktop with basic installations and features."],"Training Benefits":["ISO-Certified Certificate of Excellence from IIT Bhubaneswar"," Live, on-demand classes","30 days of interactive learning"," Career support (internships+placement+aptitude and skill-based training+networking and resume building) after course completion","Hands-on projects to practice your skills"],"avgRating":{"$numberDouble":"4.5"},"category":"College","noOfReviews":{"$numberInt":"150"},"price":{"$numberInt":"7000"},"discount":{"$numberInt":"1500"},"discount_limit_date":{"$date":{"$numberLong":"1653071400000"}},"duration":"4 Weeks","noOfLectures":{"$numberInt":"35"},"accessMode":"lifetime","noOfEnrollment":{"$numberInt":"45"},"thumbnail":"https://tv-academy-assets.s3.eu-west-2.amazonaws.com/auto+cad.png","gradient":"to right, #7f7fd5, #86a8e7, #91eae4","headerImageUrl":"https://tv-academy-assets.s3.eu-west-2.amazonaws.com/autocad_banner.jpeg","posterImageUrl":"https://tv-academy-assets.s3.eu-west-2.amazonaws.com/autocad_card.jpeg","curriculum":[{"heading":"AutoCad","detail":["Starting the Software ","User Interface ","Working with Commands","Cartesian Workspace","Opening an Existing Drawing File","Viewing Your Drawing","Saving Your Work"]},{"heading":"Basic Drawing & Editing Commands","detail":["Drawing Lines ","Erasing Objects ","Drawing Lines with Polar Tracking ","Drawing Rectangles","Drawing Circles","Undo and Redo Actions"]},{"heading":"Projects- Creating a Simple Drawing","detail":["Create a Simple Drawing ","Create Simple Shapes"]},{"heading":"Drawing Precision in","detail":["Using Running Object Snaps ","Using Object Snap Overrides","Polar Tracking at Angles ","Object Snap Tracking ","Drawing with Snap and Grid (Optional)"]},{"heading":"Making Changes in Your Drawing","detail":["Selecting Objects for Editing ","Moving Objects","Copying Objects","Rotating Objects","Scaling Objects","Mirroring Objects","Editing with Grips"]},{"heading":"Projects- Making Your Drawings More","detail":["Precise","Schematic Project: Electronics Diagram","Architectural Project: Landscape","Mechanical Project (with Polar & Tracking)","Mechanical Project: Surge Protector ","Mechanical Project: Satellite"]},{"heading":"Organizing your Drawing with Layers","detail":["Creating New Drawings with Templates","What are Layers? ","Layer States ","Changing an Object’s Layer"]},{"heading":"Advanced Object Type","detail":["Drawing Arcs ","Drawing Polylines ","Editing Polylines ","Drawing Polygons ","Drawing Ellipses"]},{"heading":"Getting Information from Your Drawing","detail":["Getting Information from Your Drawing","Measuring Objects"]},{"heading":"Projects - Drawing Organization & Information","detail":["Architectural Project ","Mechanical Project ","Civil Project"]},{"heading":"Advanced Editing Commands ","detail":["Trimming and Extending Objects ","Sketching Objects ","Creating Fillets and Chamfers","Offsetting Objects ","Creating Arrays of Objects"]},{"heading":"Inserting Blocks ","detail":["What are Blocks? ","Inserting Blocks ","Working with Dynamic Blocks ","Inserting Blocks with DesignCenter ","Inserting Blocks with Content Explorer"]},{"heading":"Projects- Creating More Complex ","detail":["Objects","Mechanical Project 1- Plate ","Mechanical Project 2- Gasket ","Mechanical Project 3- Plate ","Mechanical Project 4- Rocker Arm"]},{"heading":"Setting Up a Layout","detail":["Printing Concepts ","Working in Layouts ","Copying Layouts ","Creating View ports","Guidelines for Layouts "]},{"heading":"Printing Your Drawing ","detail":["Printing Layouts ","Printing from the Model Tab "]},{"heading":"Projects- Preparing to Print ","detail":["Mechanical Project ","Architectural Project"]},{"heading":"Text","detail":["Working with Annotations","Adding Text in a Drawing ","Modifying Multiline Text ","Formatting Multiline Text ","Adding Notes with Leaders to Your Drawing ","Creating Tables ","Modifying Tables"]},{"heading":"Hatching ","detail":["Hatching","Editing Hatches"]},{"heading":"Adding Dimensions ","detail":["Dimensioning Concepts","Adding Linear Dimensions ","Adding Radial & Angular Dimensions ","Editing Dimensions "]},{"heading":"Projects- Annotating Your Drawing","detail":["Mecha nical Project","Architectural Project 1"]}],"is_top_course":"false","createdAt":"1/1/22"}

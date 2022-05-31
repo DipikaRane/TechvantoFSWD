@@ -13,6 +13,7 @@ if(condition){
 }else {
 
 }
+
 //simple if-else
 var a=21
 if (a%2==0){
@@ -71,7 +72,9 @@ ccondition? if condition is true : if condition is false
 var j=10
 j>10 ? "HII" : "Bye"
 
+
 var city="Delhi"
+
 //here any condition match
 
 if(city=="Delhi" || city=="Mumbai"){

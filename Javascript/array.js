@@ -1,12 +1,12 @@
 // array is a collection of homogenius data/datatype.
 
 //but here in Js little change
+
  var a=['a','b','c','d','e','f'] //array of string 
  var b=[1,2,3,4,5,6] //array of numbers
  var c=[true, true, false, true] //array of boolean
 
  //JS array 
-
  var d=[1,3,4,'ab',"c",'d',true, false]
 
  //array operations
@@ -14,6 +14,7 @@
  var city=["Delhi", "Mumbai", "Pune", "Amritsar", "Bathinda", "Patiala"]
  city.length
  6
+
 typeof(city)
 'object'
 city[0]
@@ -30,18 +31,18 @@ city[city.length-5]
 city.push("Ludhiana")
 7
 city
-(7) ['Delhi', 'Mumbai', 'Pune', 'Amritsar', 'Bathinda', 'Patiala', 'Ludhiana']
+(7)['Delhi', 'Mumbai', 'Pune', 'Amritsar', 'Bathinda', 'Patiala', 'Ludhiana']
 
 city.pop()
 'Ludhiana'
 city
-(6) ['Delhi', 'Mumbai', 'Pune', 'Amritsar', 'Bathinda', 'Patiala']
+(6)['Delhi', 'Mumbai', 'Pune', 'Amritsar', 'Bathinda', 'Patiala']
 
 var city=["Delhi", "Mumbai", "Pune", "Amritsar", "Bathinda", "Patiala"]
 city.unshift("Nagpur")
 7
 city
-(7) ['Nagpur', 'Delhi', 'Mumbai', 'Pune', 'Amritsar', 'Bathinda', 'Patiala']0: "Nagpur"1: "Delhi"2: "Mumbai"3: "Pune"4: "Amritsar"5: "Bathinda"6: "Patiala"length: 7[[Prototype]]: Array(0)
+(7)['Nagpur', 'Delhi', 'Mumbai', 'Pune', 'Amritsar', 'Bathinda', 'Patiala']
 city.shift()
 'Nagpur'
 
