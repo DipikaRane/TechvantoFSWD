@@ -15,6 +15,30 @@
       "email": "abhi@gmail.com",
       "password": "abhi",
       "id": 2
+    },
+    {
+      "eid": "A982ST",
+      "fname": "Ameya",
+      "lname": "Joshi",
+      "email": "ameya.joshi@gmail.com",
+      "password": "iamameya",
+      "search": "",
+      "date": "2022-06-12",
+      "gender": "male",
+      "exper": "1",
+      "id": 3
+    },
+    {
+      "eid": "A982ST",
+      "fname": "Nitin",
+      "lname": "Joshi",
+      "email": "vidya@yahoo.com",
+      "password": "nitin",
+      "search": "",
+      "date": "2022-06-26",
+      "gender": "male",
+      "exper": "1",
+      "id": 4
     }
   ]
 }
