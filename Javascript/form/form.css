@@ -6,7 +6,8 @@
     background-color:gray
 }
 .panel-info{
-    margin-top:10%;
+    margin-top:2%;
+    width:70%;
 }
 #fout{
     color:red;

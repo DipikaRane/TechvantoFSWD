@@ -39,9 +39,9 @@ function validateCPwd(){
     var cpwd=document.getElementById('cpwd').value;
     var pwd=document.getElementById('pwd').value;
     if(pwd==cpwd){
-
+        document.getElementById('cpout').innerText="Password matches";
     }else{
-
+        document.getElementById('cpout').innerText="Password does not matches";
     }
 }
 
@@ -52,4 +52,9 @@ var showPassword=()=>{
     }else{
         pwd.type="password"
     }
+}
+
+var changeText=()=>{
+    var exp =  document.getElementById('exp').value;
+    document.getElementsByClassName('experience')[0].innerText=`Total Year of experience is ${exp}`
 }
