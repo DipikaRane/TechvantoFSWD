@@ -57,3 +57,6 @@ switched to db location
 features
 services
 
+to delete the data from collection
+db.collection_name.remove({id:id})
+db.restuarant.remove({_id:3})
