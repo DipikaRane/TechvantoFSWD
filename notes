@@ -103,3 +103,8 @@ API calling -- Application Programming interfaces
 locationURL=""
 https://developerfunnel.herokuapp.com/location
 fetch & Promise
+
+Install
+MongoDB
+Postman
+NodeJS

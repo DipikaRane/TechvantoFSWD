@@ -1,0 +1,65 @@
+[
+    {
+        "id":1,
+        "rest_name":"Vaishno Dhaba",
+        "Address":"Mittal City MAll",
+        "City":"Bathinda",
+        "State":"Punjab",
+        "State_id":10,
+        "City_id":1,
+        "Menu":[
+            {
+                "menu_id":1,
+                "mune_name":"Dal Makhni",
+                "cost":120
+            },
+            {
+                "menu_id":2,
+                "mune_name":"Lassi",
+                "cost":100
+            }
+        ]
+    },
+    {
+        "id":2,
+        "rest_name":"Radison",
+        "Address":"Mall Road",
+        "City":"Bathinda",
+        "State":"Punjab",
+        "State_id":10,
+        "City_id":1,
+        "Menu":[
+            {
+                "menu_id":3,
+                "mune_name":"Passta",
+                "cost":300
+            },
+            {
+                "menu_id":4,
+                "mune_name":"Paratha",
+                "cost":200
+            }
+        ]
+    },
+    {
+        "_id":3,
+        "rest_name":"Dominos",
+        "Address":"100 Feet Road",
+        "City":"Bathinda",
+        "State":"Punjab",
+        "State_id":10,
+        "City_id":1,
+        "Menu":[
+            {
+                "menu_id":5,
+                "mune_name":"Veg Pizaa",
+                "cost":700
+            },
+            {
+                "menu_id":6,
+                "mune_name":"Chees Pizza",
+                "cost":800
+            }
+        ]
+    }
+]

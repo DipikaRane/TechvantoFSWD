@@ -1,0 +1,59 @@
+https://www.mongodb.com/try/download/community
+
+>>> How to start Mongodb server
+>> onpen one cmd
+>> copy tyhe bin folder address from mongodb folder from c drive 
+>>>paste that path in cmd >>>cd path enter
+>>>type mongod
+>> start server
+>> keep running till using mongodb
+>>don't write anything on server
+
+>>>How to start mongodb client
+>> onpen one cmd
+>> copy tyhe bin folder address from mongodb folder from c drive 
+>>>paste that path in cmd >>>cd path enter
+>>>type mongo
+>> start client
+>> keep running till using mongodb
+>>use always client
+
+
+### Commands in MongoDB local
+>>> to see dbs -- show dbs
+>>> to see collections in db --- show collections
+>> to see data from collection -- db.collection_name.find()
+                            ---- db.collection_name.find().pretty()
+
+>> to insert data in collection
+>>>>>>> db.collection_name.insert({})
+ex: db.restuarant.insert({"Rest_Name":"Vaishno Dhabha"})
+db.restuarant.insert({"Rest_Name":"Radison","City":"Bathinda","Menu":"Pazzta"})
+
+>> to see data from restuarant
+db.restuarant.find().pretty()
+
+>> to insert  many documents
+>>db.restuarant.insertMany([{},{},{},.....])
+
+to update the data of collection
+db.user.update({Name:"Vedanti"},{$set:{City:"Pune"}})
+db.restuarant.update({"id":2},{$set:{"rest_name":"Radison"}})
+
+to remove any collection from db
+db.collection_name.drop()
+
+ use location
+switched to db location
+> show collections
+features
+location
+services
+> db.location.drop()
+true
+> use location
+switched to db location
+> show collections
+features
+services
+

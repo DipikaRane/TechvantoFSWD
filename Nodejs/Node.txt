@@ -1,0 +1,5 @@
+some approaches
+>>>first approach ATM
+>>>second approach
+
+Def>> Nodejs is single-threaded, non-blocking, asynchronous I/O which does not  wait for the response to first request but simply continues with the next request
